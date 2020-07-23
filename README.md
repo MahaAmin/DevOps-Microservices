@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+[![<MahaAmin>](https://circleci.com/github/MahaAmin/DevOps-Microservices.svg?style=svg)](https://github.com/MahaAmin/DevOps-Microservices)
+
 
 ## Project Overview
 
